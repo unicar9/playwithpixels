@@ -1,6 +1,8 @@
 # Created by https://www.gitignore.io/api/macos
 # Edit at https://www.gitignore.io/?templates=macos
 
+/.gitignore
+
 ### macOS ###
 # General
 .DS_Store
@@ -9,4 +11,4 @@
 
 ### other content ###
 
-flow-field/assets/*
+/flow-field/assets/*
